@@ -12,6 +12,7 @@ public class SwiftBalance extends SwiftObject {
 
 	private Currency currency;
 	private Date date;
+	// need to check amount length
 	private String amount;
 
 	public String getAmount() {

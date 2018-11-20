@@ -1,8 +1,6 @@
 /**
  * Swift Util
- */
-/**
+ * 
  * @author Theo Sun
- *
  */
-package org.fornever.swift;
+package org.fornever.swift.util;

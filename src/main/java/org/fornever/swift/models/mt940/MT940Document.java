@@ -10,7 +10,6 @@ import org.fornever.swift.models.SwiftObjectType;
  * Swift Object Document
  * 
  * @author Theo Sun
- *
  */
 public class MT940Document extends SwiftObject {
 
