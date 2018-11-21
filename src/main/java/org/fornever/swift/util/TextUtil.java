@@ -1,6 +1,9 @@
 package org.fornever.swift.util;
 
+import java.util.regex.Pattern;
+
 public class TextUtil {
+
 
 	public static String convertLFToCRLF(String input) {
 
